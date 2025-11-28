@@ -48,7 +48,7 @@
   "homepage": "https://github.com/cjo4m06/mcp-shrimp-task-manager#readme",
   "dependencies": {
     "@tanstack/react-table": "^8.21.3",
-    "@types/react": "^19.1.8",
+    "@types/react": "^19.2.2",
     "@types/react-dom": "^19.1.6",
     "@vitejs/plugin-react": "^4.6.0",
     "busboy": "^1.6.0",
